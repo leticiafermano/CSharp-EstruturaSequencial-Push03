@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-EstruturaSequencial-Push03", "CSharp-EstruturaSequencial-Push03\CSharp-EstruturaSequencial-Push03.csproj", "{56418071-A48E-426D-A1E8-7716A7F05FD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56418071-A48E-426D-A1E8-7716A7F05FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56418071-A48E-426D-A1E8-7716A7F05FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56418071-A48E-426D-A1E8-7716A7F05FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56418071-A48E-426D-A1E8-7716A7F05FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B12D3EB-F49C-47A4-9D57-CF9442447EAB}
+	EndGlobalSection
+EndGlobal
